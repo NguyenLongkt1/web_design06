@@ -25,7 +25,7 @@ body{
 }
 .item{
     float: left;
-    width: calc(25% - 10px);
+    width: calc(25% - 20px);
     padding: 10px;
 }
 img{
